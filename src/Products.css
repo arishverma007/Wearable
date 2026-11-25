@@ -1,0 +1,4 @@
+.products { padding: 28px 24px 50px; text-align: center; }
+.products h1 { margin-bottom: 8px; font-size: 30px; }
+.products > p { color: #777; margin-bottom: 28px; }
+.error { color: #b00020; }
